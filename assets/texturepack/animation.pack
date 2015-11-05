@@ -1,0 +1,33 @@
+
+animation.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+animation4
+  rotate: false
+  xy: 1, 1
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+animation3
+  rotate: false
+  xy: 33, 14
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+animation2
+  rotate: false
+  xy: 52, 17
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+animation1
+  rotate: false
+  xy: 69, 18
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
